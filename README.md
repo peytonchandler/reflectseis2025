@@ -1,7 +1,7 @@
 ## DUE DATES
 ### Short Abstract
 Due June 2nd @ 12:00 pm  
-Want done by Sunday the 1rst @9:00 pm  
+Want done by Sunday the 1st @9:00 pm  
   
 ### Presentation Slides
 Due June 5th @12:30 pm  
