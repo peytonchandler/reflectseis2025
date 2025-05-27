@@ -1,3 +1,8 @@
+## Project Goals
+The goal of this project is to image the shear zone that may run underneath  
+and intersecting the seismic line on County Road 45 and parallel to County   
+Road 43. Additionally, we will analyze if 15 meter node spacing was sufficient  
+to image this zone.
 ## DUE DATES
 ### Short Abstract
 Due June 2nd @ 12:00 pm  
